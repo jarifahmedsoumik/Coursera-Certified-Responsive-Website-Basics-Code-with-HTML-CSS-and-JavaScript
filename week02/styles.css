@@ -1,0 +1,6 @@
+
+h1{
+    color: red;        /** This will make h1 element's font color red */
+    font-family: sans-serif;   /** This will make h1 element's font sans-serif */
+    background-color: blue;    /** This will make h1 element's background blue */
+}
